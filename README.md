@@ -4,4 +4,6 @@ Meu nome é Anna Carolyne
 - Utilizo essa plataforma para os meu projetos
 - Estou me desenvolvendo na linguagem JavaScript
 
-![image](https://github.com/annaeec/annaeec/assets/132899688/d519366e-1dcb-41a6-8926-30d11d49833b)
+![image](https://github.com/annaeec/annaeec/assets/132899688/276a8228-590a-4e62-8c39-0d72ad745daf)
+
+
